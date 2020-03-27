@@ -9,8 +9,8 @@ android {
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
-        buildConfigField "String", "BASE_URL", "\"http://10.0.2.2:8080/qod/\""
-        buildConfigField "String", "CLIENT_ID", "\"165458074755-hpa90iileubqu7mhnn1k3erbd5rgpnup.apps.googleusercontent.com\""
+        buildConfigField "String", "BASE_URL", "\"http://10.0.0.247:8080/qod/\""
+        buildConfigField "String", "CLIENT_ID", "\"1047882006890-olscnvnj6r1kgtqcltn7fetn5vi5mpb7.apps.googleusercontent.com\""
     }
     buildTypes {
         release {
